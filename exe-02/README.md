@@ -16,4 +16,11 @@
 
 #### 4 - Calcule o que deve ser pago por um produto, considerando o seu preço normal e a escolhada condição de 
 pagamento. Utilize os códigos da tabela abaixo para ler qual a condição depagamento escolhida e efetuar o 
-cálculo adequado. 
+cálculo adequado.  
+
+| Código |                 Condição de Pagamento                 |
+|:------:|:-----------------------------------------------------:|
+|    1   | À vista em dinheiro ou cheque, recebe 10% de desconto |
+|    2   | À vista no cartão de crédito, 5% de desconto          |
+|    3   | Em até 2 vezes, preço normal sem juros                |
+|    4   | Em 3 vezes, preço normal acrescido de juros de 10%    |
