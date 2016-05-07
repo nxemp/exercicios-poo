@@ -6,7 +6,7 @@
 
 #### 2 - Obtenha a velocidade de um carro ao passar por uma lombada eletrônica. Caso ultrapasse 110.0 km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba também o valor da multa, cobrando R$ 5,00 por km acima de 110.  
 
-#### 3 - Calcule a sua conta de celular de um usuário da empresa Tchau dada a quantidade deminutos consumidos. A empresa   cobra R$ 0.20 por minuto para o uso abaixo de 200 minutos. Entre 200 e 400 minutos, o preço é R$ 0.18. Acima de 400 minutos o preço por minuto é R$ 0.15.
+#### 3 - Calcule a sua conta de celular de um usuário da empresa Tchau dada a quantidade de minutos consumidos. A empresa   cobra R$ 0.20 por minuto para o uso abaixo de 200 minutos. Entre 200 e 400 minutos, o preço é R$ 0.18. Acima de 400 minutos o preço por minuto é R$ 0.15.
 
 #### 4 - Calcule o que deve ser pago por um produto, considerando o seu preço normal e a escolhada condição de pagamento.Utilize os códigos da tabela abaixo para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado.  
 
