@@ -1,7 +1,6 @@
 altura = float(input('Digite sua altura (em centimetros): '))
 sexo = input('Digite seu sexo (f ou m): ')
 
-
 if sexo == 'f':
     k = 2
 else:
