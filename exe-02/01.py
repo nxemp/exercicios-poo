@@ -3,8 +3,8 @@ sexo = input('Digite seu sexo (f ou m): ')
 
 
 if sexo == 'f':
-    peso = altura - 100 - ((altura - 150) / 2)
+    k = 2
 else:
-    peso = altura - 100 - ((altura - 150) / 2)
+    k = 4
 
-print('Seu pesso ideal é: %.2f kg' % peso)
+print('Seu pesso ideal é: %.2f kg' % (altura - 100 - ((altura - 150) / k)))
