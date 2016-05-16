@@ -7,4 +7,4 @@ while i <= numero:
     k += i
     i += 2
 
-print('Śoma dos números: {0}' .format(k))
+print('Soma dos números: {0}' .format(k))

@@ -18,6 +18,6 @@ while voto != -1:
             nulo += 1
 
 print('Total de votos: {0}' .format(v1 + v2 + v3 + v4 + branco + nulo))
-print('Cecília Meireles: {0}\n Ariano Suassuna: {1}' .format(v1, v2))
-print('Machado de Assis: {0} \n Graciliano Ramos: {1}' .format(v3, v4))
-print('Votos em branco: {0}\n Votos nulo: {1}' .format(branco, nulo))
+print('Cecília Meireles: {0}\nAriano Suassuna: {1}' .format(v1, v2))
+print('Machado de Assis: {0} \nGraciliano Ramos: {1}' .format(v3, v4))
+print('Votos em branco: {0}\nVotos nulo: {1}' .format(branco, nulo))
