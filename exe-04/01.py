@@ -1,4 +1,4 @@
-quest = int(input('Número de questões: '))
+quest = int(input('Número de questões (1 ≤ N ≤ 80): '))
 gabarito = list()
 
 for tmp in range(quest):
@@ -6,4 +6,8 @@ for tmp in range(quest):
 
 acertos = 0
 for tmp in range(quest):
-	
+	resposta = input('Digite a resposta %d: ' % (tmp+1))
+	if resposta == gabarito[quest]:
+		acertos += 1
+
+print('Você acertou %d questões.' % quest)
