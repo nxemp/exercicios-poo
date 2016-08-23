@@ -1,5 +1,3 @@
-from 01 import cont
-
 import random
 
 def sortear_palavra(nome_arquivo):
